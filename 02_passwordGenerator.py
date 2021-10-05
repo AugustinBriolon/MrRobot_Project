@@ -1,7 +1,7 @@
 import string
 import random
 
-length = input('\nEnter the length of password: ')
+length = input('Enter the length of password (max 50) :  ')
 
 if length.isalpha() or int(length) > 50:
     print("Only numbers are accept and the limit is 50 characters")
