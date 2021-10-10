@@ -18,3 +18,4 @@ First we import "hashlib" to hash the future password.
 We define the search frame between 72000000 and 99999999.
 We hashes all the passwords that we are going to generate. 
 Once the password is found, it is indicated.
+# algorithmie-AugustinBriolon
